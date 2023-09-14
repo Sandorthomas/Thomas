@@ -19,9 +19,10 @@ Technologien im Einsatz:
 
 ## Screenshots
 
+[![Screenshot][product-screenshot](https://www.example.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
-[product-screenshot]: images/main.png
+[product-screenshot]: Main.java.png
