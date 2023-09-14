@@ -19,7 +19,7 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-[![Screenshot][product-screenshot](https://www.example.com)
+[![Screenshot][product-screenshot]](https://www.example.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
